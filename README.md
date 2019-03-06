@@ -5,9 +5,9 @@ ABAQUS is a powerful FEA software, widely used in automotive industry, you can f
 The codes comes from my daily work. But i will just use some simple models for instance to show the fuction.
 
 ## The Scripts Includes:
-1)Pre & Post processing ( such as Parametric modeling, automatic post-processing);  
-2)How to generate the report (ppt or pptx) automatically;  
-3)How to write the results to an excel file.
+1) Pre & Post processing ( such as Parametric modeling, automatic post-processing);  
+2) How to generate the report (ppt or pptx) automatically;  
+3) How to write the results to an excel file.
 
 ## Some Hints
 1) The models what i use are simple. And the challenges you actually met must be much trickier. 
