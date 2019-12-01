@@ -10,6 +10,11 @@ The codes comes from my daily work. But i will just use some simple models for i
 3) How to write the results to an excel file.
 
 ## Some Hints
-1) The models what i use are simple. And the challenges you actually met must be much trickier. 
-2) I will finish the upload slowly.(i feel sorry for that =.=)
-3) As long as i am still a CAE engineer, i will continue upload more scripts for ABAQUS.
+1) I will finish the upload slowly.(i feel sorry for that =.=)
+2) As long as i am still a CAE engineer, i will continue upload more scripts for ABAQUS.
+
+### script1-SURFIO
+This is a script for surface definition transformation between abaqus and hypermesh. 
+Stat:
+1) ABAQUS -> HYPERMESH  finished
+2) hypermesh -> ABAQUS  ongoing
