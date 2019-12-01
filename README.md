@@ -13,8 +13,9 @@ The codes comes from my daily work. But i will just use some simple models for i
 1) I will finish the upload slowly.(i feel sorry for that =.=)
 2) As long as i am still a CAE engineer, i will continue upload more scripts for ABAQUS.
 
-### script1-SURFIO
+### script
+### 1-SURFIO
 This is a script for surface definition transformation between abaqus and hypermesh. 
 Stat:
-1) ABAQUS -> HYPERMESH  finished
-2) hypermesh -> ABAQUS  ongoing
+1) ABAQUS -> HYPERMESH     (finished)
+2) hypermesh -> ABAQUS     (ongoing)
