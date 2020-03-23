@@ -23,7 +23,7 @@ stat:
 1) ABAQUS -> HYPERMESH     (finished)
 2) hypermesh -> ABAQUS     (ongoing)
 
-### 2-BoltModeler
+### 2-BoltModeler （free class）
 This is a abaqus GUI, and it has several fuctions.(boltfuc is necessary for this GUI)
 1) Automatically create a bolt (3D geometry) by several params, as below:
 ![image](https://github.com/ShengqiangSKR/ABAQUS-Python/tree/master/BoltModeler/Logo/Size.PNG)
@@ -37,3 +37,7 @@ This is a abaqus GUI, and it has several fuctions.(boltfuc is necessary for this
 ### 3-boltfuc
 This is a kernel module, you can use the bolt model build up functions in your own scripts by importing this module.
 
+
+
+
+shengqiang.du@163.com
