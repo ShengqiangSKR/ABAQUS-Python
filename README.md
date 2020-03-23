@@ -23,4 +23,5 @@ Stat:
 ### 2-BoltModeler
 This is a abaqus GUI, and it has several fuctions.
 1) Automatically create a bolt (3D geometry) by several params, as below:
-![示意图](https://github.com/ShengqiangSKR/ABAQUS-Python/tree/master/BoltModeler/Logo/Size.PNG)
+![image](https://github.com/ShengqiangSKR/ABAQUS-Python/tree/master/BoltModeler/Logo/Size.PNG)
+2) Automatically mesh the 
