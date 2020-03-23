@@ -40,4 +40,4 @@ This is a kernel module, you can use the bolt model build up functions in your o
 
 
 
-shengqiang.du@163.com
+shengqiang_du@163.com
