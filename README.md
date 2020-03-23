@@ -32,7 +32,7 @@ This is a abaqus GUI, and it has several fuctions.(boltfuc is necessary for this
 （the initial tie length is 1/2 of the body length）
 4）Automatically create 3 steps bolt load by a given value.
 5) You can use 3-point location method to add a bolt to the assembly.(I got this idea from HyperMesh~) 
-![image](https://github.com/ShengqiangSKR/ABAQUS-Python/tree/master/BoltModeler/Logo/3pointLoc.PNG)
+![image](https://github.com/ShengqiangSKR/ABAQUS-Python/tree/master/BoltModeler/Logo/3pointLoc.gif)
 
 ### 3-boltfuc
 This is a kernel module, you can use the bolt model build up functions in your own scripts by importing this module.
