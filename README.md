@@ -2,16 +2,16 @@
 ABAQUS is a powerful FEA software, widely used in automotive industry, you can find more information here:
 [wiki-SIMULIA](https://en.wikipedia.org/wiki/Abaqus)
 
-The codes comes from my daily work. And I will use some simple models for instance to show the fuctions, if possible.
+The codes comes from my daily work. And I will use some simple models for instance to show the fuctions.
 
 ## The Scripts May Includes:
-1) Pre & Post processing ( such as Parametric modeling, automatic post-processing);  
+1) Pre & Post processing ( Parametric modeling, automatic post-processing);  
 2) How to generate the report (ppt or pptx) automatically;  
 3) How to write the results to an excel file.
 
 ## Some Hints
-1) I will finish the upload slowly.(i feel sorry for that =.=)
-2) As long as i am still an CAE engineer, i will upload more scripts for ABAQUS from time to time.
+1) I will finish the upload slowly.
+2) As long as i am still an CAE engineer, i will upload more scripts.
 
 ### Introduction
 ### 1-SURFIO
